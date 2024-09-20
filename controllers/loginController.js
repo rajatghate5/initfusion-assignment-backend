@@ -1,6 +1,6 @@
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
-const User = require("../models/Login"); // Adjust the path to your User model
+const User = require("../models/Login");
 
 // Utility function to generate JWT token
 const generateToken = (user) => {
