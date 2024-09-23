@@ -21,7 +21,7 @@ Open [http://localhost:5000](http://localhost:5000) to view the server in your b
 
 ### 1. Clone the frontend Repository
 
-Going to this link [https://github.com/rajatghate5/initfusion-assignment-frontend/tree/main]
+Go to this link [https://github.com/rajatghate5/initfusion-assignment-frontend/tree/main]
 
 ### 2. Clone the Backend Repository
 
